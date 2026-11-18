@@ -1,4 +1,366 @@
 {
- "updated": "",
- "items": []
+ "updated": "2026-11-18T14:57Z",
+ "source": "FEMA OpenFEMA",
+ "items": [
+  {
+   "number": 4955,
+   "state": "FL",
+   "date": "2026-10-27",
+   "type": "Major disaster",
+   "incident": "Hurricane",
+   "title": "Hurricane Isaias",
+   "areas": 15
+  },
+  {
+   "number": 3660,
+   "state": "NM",
+   "date": "2026-10-26",
+   "type": "Emergency",
+   "incident": "Flood",
+   "title": "Severe Storms And Flooding",
+   "areas": 9
+  },
+  {
+   "number": 3659,
+   "state": "GU",
+   "date": "2026-10-17",
+   "type": "Emergency",
+   "incident": "Other",
+   "title": "Typhoon Champi",
+   "areas": 1
+  },
+  {
+   "number": 3658,
+   "state": "MP",
+   "date": "2026-10-17",
+   "type": "Emergency",
+   "incident": "Tropical Storm",
+   "title": "Tropical Storm Champi",
+   "areas": 3
+  },
+  {
+   "number": 5679,
+   "state": "CA",
+   "date": "2026-10-16",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Norte Fire",
+   "areas": 1
+  },
+  {
+   "number": 3657,
+   "state": "GA",
+   "date": "2026-10-09",
+   "type": "Emergency",
+   "incident": "Tropical Storm",
+   "title": "Hurricane Isaias",
+   "areas": 76
+  },
+  {
+   "number": 3656,
+   "state": "AL",
+   "date": "2026-10-09",
+   "type": "Emergency",
+   "incident": "Hurricane",
+   "title": "Hurricane Isaias",
+   "areas": 4
+  },
+  {
+   "number": 3655,
+   "state": "FL",
+   "date": "2026-10-09",
+   "type": "Emergency",
+   "incident": "Tropical Storm",
+   "title": "Hurricane Isaias",
+   "areas": 27
+  },
+  {
+   "number": 4953,
+   "state": "WV",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms And Flooding",
+   "areas": 3
+  },
+  {
+   "number": 4949,
+   "state": "WI",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Tornado",
+   "title": "Severe Storms And Tornadoes",
+   "areas": 4
+  },
+  {
+   "number": 4947,
+   "state": "NH",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storm And Flooding",
+   "areas": 1
+  },
+  {
+   "number": 4950,
+   "state": "OK",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storm And Straight-Line Winds",
+   "areas": 4
+  },
+  {
+   "number": 4951,
+   "state": "HI",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Hurricane",
+   "title": "Hurricane Lala",
+   "areas": 3
+  },
+  {
+   "number": 4948,
+   "state": "UT",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Flood",
+   "title": "Cottonwood Fire, Flooding, And Mudslides",
+   "areas": 2
+  },
+  {
+   "number": 4946,
+   "state": "GU",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Typhoon",
+   "title": "Super Typhoon Bavi",
+   "areas": 1
+  },
+  {
+   "number": 4952,
+   "state": "HI",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Hurricane",
+   "title": "Hurricane Lowell",
+   "areas": 2
+  },
+  {
+   "number": 4954,
+   "state": "NM",
+   "date": "2026-10-07",
+   "type": "Major disaster",
+   "incident": "Flood",
+   "title": "Severe Storms And Flooding",
+   "areas": 1
+  },
+  {
+   "number": 4945,
+   "state": "OH",
+   "date": "2026-10-02",
+   "type": "Major disaster",
+   "incident": "Flood",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, Flooding, And Landslides",
+   "areas": 7
+  },
+  {
+   "number": 5678,
+   "state": "NV",
+   "date": "2026-10-02",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Bull Fire",
+   "areas": 1
+  },
+  {
+   "number": 3654,
+   "state": "HI",
+   "date": "2026-09-25",
+   "type": "Emergency",
+   "incident": "Tropical Storm",
+   "title": "Tropical Storm Nolo",
+   "areas": 4
+  },
+  {
+   "number": 5677,
+   "state": "TX",
+   "date": "2026-09-15",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Hydra Fire",
+   "areas": 1
+  },
+  {
+   "number": 5676,
+   "state": "AR",
+   "date": "2026-09-15",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Bunker Fire",
+   "areas": 2
+  },
+  {
+   "number": 4942,
+   "state": "IA",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms And Flooding",
+   "areas": 4
+  },
+  {
+   "number": 4940,
+   "state": "KS",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",
+   "areas": 32
+  },
+  {
+   "number": 4935,
+   "state": "TX",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Flood",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",
+   "areas": 26
+  },
+  {
+   "number": 4941,
+   "state": "SD",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, And Flooding",
+   "areas": 1
+  },
+  {
+   "number": 4943,
+   "state": "KS",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",
+   "areas": 22
+  },
+  {
+   "number": 4944,
+   "state": "CO",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Fire",
+   "title": "Wildfires, Flooding, And Mudslides",
+   "areas": 4
+  },
+  {
+   "number": 4937,
+   "state": "KY",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, Flooding, Landslides, And Mudslides",
+   "areas": 20
+  },
+  {
+   "number": 4936,
+   "state": "HI",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Earthquake",
+   "title": "Earthquake",
+   "areas": 1
+  },
+  {
+   "number": 4938,
+   "state": "SD",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",
+   "areas": 10
+  },
+  {
+   "number": 4939,
+   "state": "MO",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, And Flooding",
+   "areas": 9
+  },
+  {
+   "number": 3653,
+   "state": "NV",
+   "date": "2026-09-01",
+   "type": "Emergency",
+   "incident": "Fire",
+   "title": "Hawk Fire",
+   "areas": 1
+  },
+  {
+   "number": 4934,
+   "state": "ND",
+   "date": "2026-09-01",
+   "type": "Major disaster",
+   "incident": "Severe Storm",
+   "title": "Severe Storms, Straight-Line Winds, And Tornadoes",
+   "areas": 7
+  },
+  {
+   "number": 5675,
+   "state": "TX",
+   "date": "2026-08-25",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Ross Fire",
+   "areas": 2
+  },
+  {
+   "number": 3652,
+   "state": "HI",
+   "date": "2026-08-25",
+   "type": "Emergency",
+   "incident": "Tropical Storm",
+   "title": "Hurricane Lala",
+   "areas": 1
+  },
+  {
+   "number": 4933,
+   "state": "IN",
+   "date": "2026-08-25",
+   "type": "Major disaster",
+   "incident": "Flood",
+   "title": "Severe Storms, Straight-Line Winds, Tornadoes, And Flooding",
+   "areas": 30
+  },
+  {
+   "number": 5674,
+   "state": "NV",
+   "date": "2026-08-22",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Hawk Fire",
+   "areas": 1
+  },
+  {
+   "number": 5673,
+   "state": "AR",
+   "date": "2026-08-21",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Pine Tree Road Fire",
+   "areas": 1
+  },
+  {
+   "number": 5672,
+   "state": "AK",
+   "date": "2026-08-18",
+   "type": "Fire management",
+   "incident": "Fire",
+   "title": "Mukluk Fire",
+   "areas": 1
+  }
+ ]
 }

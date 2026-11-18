@@ -1,4 +1,3802 @@
 {
- "updated": "",
- "cities": []
+ "updated": "2026-11-18",
+ "source": "MET Norway (CC BY 4.0)",
+ "cities": [
+  {
+   "name": "Naples",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 26.142,
+   "lon": -81.795,
+   "min_c": 19,
+   "max_c": 26,
+   "min_f": 66,
+   "max_f": 79,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 21,
+     "max_c": 24,
+     "min_f": 70,
+     "max_f": 76,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 21,
+     "max_c": 26,
+     "min_f": 69,
+     "max_f": 79,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 22,
+     "max_c": 24,
+     "min_f": 71,
+     "max_f": 76,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 21,
+     "max_c": 25,
+     "min_f": 70,
+     "max_f": 76,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 20,
+     "max_c": 25,
+     "min_f": 69,
+     "max_f": 77,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 19,
+     "max_c": 26,
+     "min_f": 66,
+     "max_f": 78,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 20,
+     "max_c": 22,
+     "min_f": 68,
+     "max_f": 72,
+     "symbol": "lightrain"
+    }
+   ]
+  },
+  {
+   "name": "Fort Myers",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 26.64,
+   "lon": -81.872,
+   "min_c": 16,
+   "max_c": 27,
+   "min_f": 61,
+   "max_f": 80,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 20,
+     "max_c": 24,
+     "min_f": 68,
+     "max_f": 76,
+     "symbol": "heavyrainshowers night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 20,
+     "max_c": 26,
+     "min_f": 68,
+     "max_f": 79,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 21,
+     "max_c": 24,
+     "min_f": 69,
+     "max_f": 76,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 18,
+     "max_c": 27,
+     "min_f": 64,
+     "max_f": 80,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 17,
+     "max_c": 26,
+     "min_f": 63,
+     "max_f": 79,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 16,
+     "max_c": 26,
+     "min_f": 61,
+     "max_f": 78,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 19,
+     "max_c": 25,
+     "min_f": 66,
+     "max_f": 77,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Sarasota",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 27.336,
+   "lon": -82.531,
+   "min_c": 18,
+   "max_c": 25,
+   "min_f": 64,
+   "max_f": 77,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 20,
+     "max_c": 24,
+     "min_f": 67,
+     "max_f": 76,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 20,
+     "max_c": 25,
+     "min_f": 68,
+     "max_f": 77,
+     "symbol": "rainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 21,
+     "max_c": 24,
+     "min_f": 71,
+     "max_f": 76,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 19,
+     "max_c": 24,
+     "min_f": 67,
+     "max_f": 76,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 18,
+     "max_c": 22,
+     "min_f": 65,
+     "max_f": 72,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 18,
+     "max_c": 23,
+     "min_f": 64,
+     "max_f": 74,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 19,
+     "max_c": 23,
+     "min_f": 66,
+     "max_f": 74,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Tampa",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 27.951,
+   "lon": -82.457,
+   "min_c": 16,
+   "max_c": 25,
+   "min_f": 62,
+   "max_f": 77,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 20,
+     "max_c": 24,
+     "min_f": 67,
+     "max_f": 75,
+     "symbol": "lightrainshowers day"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 19,
+     "max_c": 25,
+     "min_f": 67,
+     "max_f": 76,
+     "symbol": "rainshowers day"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 21,
+     "max_c": 25,
+     "min_f": 69,
+     "max_f": 76,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 18,
+     "max_c": 25,
+     "min_f": 65,
+     "max_f": 77,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 17,
+     "max_c": 24,
+     "min_f": 62,
+     "max_f": 74,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 16,
+     "max_c": 24,
+     "min_f": 62,
+     "max_f": 76,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 18,
+     "max_c": 24,
+     "min_f": 65,
+     "max_f": 75,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "The Villages",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 28.934,
+   "lon": -81.96,
+   "min_c": 14,
+   "max_c": 24,
+   "min_f": 58,
+   "max_f": 75,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 19,
+     "max_c": 22,
+     "min_f": 66,
+     "max_f": 72,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 19,
+     "max_c": 22,
+     "min_f": 66,
+     "max_f": 72,
+     "symbol": "lightrainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 20,
+     "max_c": 22,
+     "min_f": 68,
+     "max_f": 71,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 18,
+     "max_c": 24,
+     "min_f": 65,
+     "max_f": 74,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 14,
+     "max_c": 23,
+     "min_f": 58,
+     "max_f": 74,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 14,
+     "max_c": 23,
+     "min_f": 58,
+     "max_f": 73,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 16,
+     "max_c": 24,
+     "min_f": 62,
+     "max_f": 75,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Orlando",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 28.538,
+   "lon": -81.379,
+   "min_c": 16,
+   "max_c": 24,
+   "min_f": 61,
+   "max_f": 75,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 20,
+     "max_c": 22,
+     "min_f": 67,
+     "max_f": 71,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 19,
+     "max_c": 22,
+     "min_f": 67,
+     "max_f": 71,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 20,
+     "max_c": 22,
+     "min_f": 69,
+     "max_f": 71,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 20,
+     "max_c": 23,
+     "min_f": 68,
+     "max_f": 73,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 16,
+     "max_c": 23,
+     "min_f": 61,
+     "max_f": 73,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 16,
+     "max_c": 22,
+     "min_f": 61,
+     "max_f": 72,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 18,
+     "max_c": 24,
+     "min_f": 64,
+     "max_f": 75,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "West Palm Beach",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 26.715,
+   "lon": -80.053,
+   "min_c": 17,
+   "max_c": 26,
+   "min_f": 62,
+   "max_f": 78,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 21,
+     "max_c": 25,
+     "min_f": 71,
+     "max_f": 76,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 21,
+     "max_c": 25,
+     "min_f": 71,
+     "max_f": 76,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 21,
+     "max_c": 26,
+     "min_f": 69,
+     "max_f": 78,
+     "symbol": "lightrainshowers night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 19,
+     "max_c": 25,
+     "min_f": 67,
+     "max_f": 78,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 18,
+     "max_c": 25,
+     "min_f": 65,
+     "max_f": 78,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 17,
+     "max_c": 25,
+     "min_f": 62,
+     "max_f": 77,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 20,
+     "max_c": 25,
+     "min_f": 68,
+     "max_f": 77,
+     "symbol": "rain"
+    }
+   ]
+  },
+  {
+   "name": "Fort Lauderdale",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 26.122,
+   "lon": -80.137,
+   "min_c": 17,
+   "max_c": 27,
+   "min_f": 63,
+   "max_f": 81,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 22,
+     "max_c": 23,
+     "min_f": 72,
+     "max_f": 74,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 21,
+     "max_c": 24,
+     "min_f": 70,
+     "max_f": 75,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 21,
+     "max_c": 27,
+     "min_f": 70,
+     "max_f": 81,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 19,
+     "max_c": 27,
+     "min_f": 67,
+     "max_f": 80,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 18,
+     "max_c": 26,
+     "min_f": 64,
+     "max_f": 80,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 17,
+     "max_c": 25,
+     "min_f": 63,
+     "max_f": 77,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 19,
+     "max_c": 26,
+     "min_f": 66,
+     "max_f": 78,
+     "symbol": "rain"
+    }
+   ]
+  },
+  {
+   "name": "Miami",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 25.762,
+   "lon": -80.192,
+   "min_c": 18,
+   "max_c": 28,
+   "min_f": 65,
+   "max_f": 82,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 22,
+     "max_c": 24,
+     "min_f": 72,
+     "max_f": 74,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 21,
+     "max_c": 25,
+     "min_f": 70,
+     "max_f": 76,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 20,
+     "max_c": 28,
+     "min_f": 68,
+     "max_f": 82,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 20,
+     "max_c": 27,
+     "min_f": 68,
+     "max_f": 80,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 19,
+     "max_c": 27,
+     "min_f": 66,
+     "max_f": 80,
+     "symbol": "lightrainshowers day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 18,
+     "max_c": 25,
+     "min_f": 65,
+     "max_f": 76,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 20,
+     "max_c": 25,
+     "min_f": 69,
+     "max_f": 77,
+     "symbol": "rain"
+    }
+   ]
+  },
+  {
+   "name": "Key West",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 24.555,
+   "lon": -81.78,
+   "min_c": 22,
+   "max_c": 26,
+   "min_f": 72,
+   "max_f": 80,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 24,
+     "max_c": 26,
+     "min_f": 75,
+     "max_f": 78,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 25,
+     "max_c": 26,
+     "min_f": 77,
+     "max_f": 78,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 25,
+     "max_c": 26,
+     "min_f": 76,
+     "max_f": 80,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 25,
+     "max_c": 26,
+     "min_f": 76,
+     "max_f": 79,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 25,
+     "max_c": 26,
+     "min_f": 77,
+     "max_f": 79,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 25,
+     "max_c": 25,
+     "min_f": 76,
+     "max_f": 77,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 22,
+     "max_c": 25,
+     "min_f": 72,
+     "max_f": 78,
+     "symbol": "lightrain"
+    }
+   ]
+  },
+  {
+   "name": "Destin",
+   "region": "FL",
+   "country": "US",
+   "role": "south",
+   "lat": 30.393,
+   "lon": -86.496,
+   "min_c": 17,
+   "max_c": 25,
+   "min_f": 62,
+   "max_f": 77,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 17,
+     "max_c": 21,
+     "min_f": 62,
+     "max_f": 70,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 17,
+     "max_c": 22,
+     "min_f": 62,
+     "max_f": 72,
+     "symbol": "rain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 17,
+     "max_c": 21,
+     "min_f": 63,
+     "max_f": 70,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 18,
+     "max_c": 24,
+     "min_f": 64,
+     "max_f": 74,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 17,
+     "max_c": 23,
+     "min_f": 62,
+     "max_f": 74,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 17,
+     "max_c": 25,
+     "min_f": 63,
+     "max_f": 77,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 18,
+     "max_c": 24,
+     "min_f": 64,
+     "max_f": 76,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Scottsdale",
+   "region": "AZ",
+   "country": "US",
+   "role": "south",
+   "lat": 33.494,
+   "lon": -111.926,
+   "min_c": 8,
+   "max_c": 23,
+   "min_f": 46,
+   "max_f": 73,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 9,
+     "max_c": 20,
+     "min_f": 48,
+     "max_f": 68,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 10,
+     "max_c": 23,
+     "min_f": 50,
+     "max_f": 73,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 10,
+     "max_c": 20,
+     "min_f": 51,
+     "max_f": 67,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 10,
+     "max_c": 16,
+     "min_f": 49,
+     "max_f": 61,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 8,
+     "max_c": 19,
+     "min_f": 46,
+     "max_f": 66,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 9,
+     "max_c": 18,
+     "min_f": 49,
+     "max_f": 65,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 8,
+     "max_c": 18,
+     "min_f": 46,
+     "max_f": 65,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Mesa",
+   "region": "AZ",
+   "country": "US",
+   "role": "south",
+   "lat": 33.415,
+   "lon": -111.831,
+   "min_c": 9,
+   "max_c": 24,
+   "min_f": 49,
+   "max_f": 76,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 10,
+     "max_c": 21,
+     "min_f": 50,
+     "max_f": 71,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 11,
+     "max_c": 24,
+     "min_f": 52,
+     "max_f": 76,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 11,
+     "max_c": 21,
+     "min_f": 52,
+     "max_f": 70,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 12,
+     "max_c": 18,
+     "min_f": 54,
+     "max_f": 65,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 9,
+     "max_c": 20,
+     "min_f": 49,
+     "max_f": 69,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 11,
+     "max_c": 20,
+     "min_f": 51,
+     "max_f": 68,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 10,
+     "max_c": 20,
+     "min_f": 50,
+     "max_f": 68,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Tucson",
+   "region": "AZ",
+   "country": "US",
+   "role": "south",
+   "lat": 32.222,
+   "lon": -110.975,
+   "min_c": 8,
+   "max_c": 26,
+   "min_f": 47,
+   "max_f": 78,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 8,
+     "max_c": 22,
+     "min_f": 47,
+     "max_f": 72,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 10,
+     "max_c": 26,
+     "min_f": 50,
+     "max_f": 78,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 9,
+     "max_c": 22,
+     "min_f": 49,
+     "max_f": 71,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 11,
+     "max_c": 18,
+     "min_f": 51,
+     "max_f": 64,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 8,
+     "max_c": 20,
+     "min_f": 47,
+     "max_f": 68,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 9,
+     "max_c": 19,
+     "min_f": 48,
+     "max_f": 66,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 8,
+     "max_c": 19,
+     "min_f": 47,
+     "max_f": 66,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Yuma",
+   "region": "AZ",
+   "country": "US",
+   "role": "south",
+   "lat": 32.693,
+   "lon": -114.628,
+   "min_c": 10,
+   "max_c": 24,
+   "min_f": 49,
+   "max_f": 76,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 10,
+     "max_c": 24,
+     "min_f": 50,
+     "max_f": 75,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 11,
+     "max_c": 24,
+     "min_f": 52,
+     "max_f": 76,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 15,
+     "max_c": 22,
+     "min_f": 58,
+     "max_f": 72,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 12,
+     "max_c": 20,
+     "min_f": 53,
+     "max_f": 69,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 10,
+     "max_c": 21,
+     "min_f": 49,
+     "max_f": 70,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 11,
+     "max_c": 21,
+     "min_f": 52,
+     "max_f": 70,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 10,
+     "max_c": 22,
+     "min_f": 50,
+     "max_f": 72,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Palm Springs",
+   "region": "CA",
+   "country": "US",
+   "role": "south",
+   "lat": 33.83,
+   "lon": -116.545,
+   "min_c": 10,
+   "max_c": 21,
+   "min_f": 50,
+   "max_f": 70,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 12,
+     "max_c": 21,
+     "min_f": 53,
+     "max_f": 69,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 12,
+     "max_c": 21,
+     "min_f": 54,
+     "max_f": 70,
+     "symbol": "rainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 10,
+     "max_c": 20,
+     "min_f": 50,
+     "max_f": 69,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 10,
+     "max_c": 18,
+     "min_f": 50,
+     "max_f": 64,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 10,
+     "max_c": 18,
+     "min_f": 51,
+     "max_f": 64,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 11,
+     "max_c": 20,
+     "min_f": 52,
+     "max_f": 68,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 12,
+     "max_c": 20,
+     "min_f": 54,
+     "max_f": 68,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "San Diego",
+   "region": "CA",
+   "country": "US",
+   "role": "south",
+   "lat": 32.716,
+   "lon": -117.161,
+   "min_c": 13,
+   "max_c": 21,
+   "min_f": 55,
+   "max_f": 69,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 14,
+     "max_c": 21,
+     "min_f": 58,
+     "max_f": 69,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 15,
+     "max_c": 20,
+     "min_f": 60,
+     "max_f": 68,
+     "symbol": "rainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 15,
+     "max_c": 19,
+     "min_f": 59,
+     "max_f": 67,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 14,
+     "max_c": 18,
+     "min_f": 56,
+     "max_f": 65,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 13,
+     "max_c": 18,
+     "min_f": 55,
+     "max_f": 65,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 14,
+     "max_c": 18,
+     "min_f": 58,
+     "max_f": 65,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 14,
+     "max_c": 19,
+     "min_f": 56,
+     "max_f": 66,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Las Vegas",
+   "region": "NV",
+   "country": "US",
+   "role": "south",
+   "lat": 36.17,
+   "lon": -115.14,
+   "min_c": 4,
+   "max_c": 17,
+   "min_f": 39,
+   "max_f": 63,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 6,
+     "max_c": 17,
+     "min_f": 44,
+     "max_f": 63,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 8,
+     "max_c": 16,
+     "min_f": 47,
+     "max_f": 62,
+     "symbol": "rainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 14,
+     "min_f": 39,
+     "max_f": 58,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 4,
+     "max_c": 12,
+     "min_f": 39,
+     "max_f": 54,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 56,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 6,
+     "max_c": 14,
+     "min_f": 42,
+     "max_f": 58,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 6,
+     "max_c": 13,
+     "min_f": 42,
+     "max_f": 56,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "St. George",
+   "region": "UT",
+   "country": "US",
+   "role": "south",
+   "lat": 37.096,
+   "lon": -113.568,
+   "min_c": 2,
+   "max_c": 14,
+   "min_f": 35,
+   "max_f": 58,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 3,
+     "max_c": 14,
+     "min_f": 37,
+     "max_f": 58,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 12,
+     "min_f": 42,
+     "max_f": 53,
+     "symbol": "rainshowers night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 12,
+     "min_f": 40,
+     "max_f": 54,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 2,
+     "max_c": 8,
+     "min_f": 35,
+     "max_f": 47,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 2,
+     "max_c": 10,
+     "min_f": 35,
+     "max_f": 50,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 10,
+     "min_f": 40,
+     "max_f": 50,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 3,
+     "max_c": 11,
+     "min_f": 37,
+     "max_f": 51,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "McAllen",
+   "region": "TX",
+   "country": "US",
+   "role": "south",
+   "lat": 26.203,
+   "lon": -98.23,
+   "min_c": 14,
+   "max_c": 27,
+   "min_f": 57,
+   "max_f": 81,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 14,
+     "max_c": 24,
+     "min_f": 57,
+     "max_f": 76,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 17,
+     "max_c": 25,
+     "min_f": 62,
+     "max_f": 76,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 18,
+     "max_c": 26,
+     "min_f": 64,
+     "max_f": 79,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 17,
+     "max_c": 25,
+     "min_f": 62,
+     "max_f": 78,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 20,
+     "max_c": 27,
+     "min_f": 69,
+     "max_f": 81,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 18,
+     "max_c": 22,
+     "min_f": 64,
+     "max_f": 71,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 16,
+     "max_c": 21,
+     "min_f": 60,
+     "max_f": 70,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "South Padre Island",
+   "region": "TX",
+   "country": "US",
+   "role": "south",
+   "lat": 26.104,
+   "lon": -97.165,
+   "min_c": 19,
+   "max_c": 25,
+   "min_f": 67,
+   "max_f": 76,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 19,
+     "max_c": 23,
+     "min_f": 67,
+     "max_f": 73,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 22,
+     "max_c": 24,
+     "min_f": 71,
+     "max_f": 74,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 23,
+     "max_c": 24,
+     "min_f": 73,
+     "max_f": 75,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 23,
+     "max_c": 24,
+     "min_f": 73,
+     "max_f": 75,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 24,
+     "max_c": 25,
+     "min_f": 75,
+     "max_f": 76,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 22,
+     "max_c": 24,
+     "min_f": 72,
+     "max_f": 76,
+     "symbol": "rainshowers day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 22,
+     "max_c": 23,
+     "min_f": 72,
+     "max_f": 73,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Galveston",
+   "region": "TX",
+   "country": "US",
+   "role": "south",
+   "lat": 29.301,
+   "lon": -94.798,
+   "min_c": 16,
+   "max_c": 21,
+   "min_f": 60,
+   "max_f": 70,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 18,
+     "max_c": 20,
+     "min_f": 64,
+     "max_f": 69,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 17,
+     "max_c": 20,
+     "min_f": 63,
+     "max_f": 69,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 18,
+     "max_c": 20,
+     "min_f": 64,
+     "max_f": 68,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 19,
+     "max_c": 20,
+     "min_f": 67,
+     "max_f": 68,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 20,
+     "max_c": 21,
+     "min_f": 67,
+     "max_f": 70,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 19,
+     "max_c": 21,
+     "min_f": 65,
+     "max_f": 70,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 16,
+     "max_c": 20,
+     "min_f": 60,
+     "max_f": 68,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Gulf Shores",
+   "region": "AL",
+   "country": "US",
+   "role": "south",
+   "lat": 30.246,
+   "lon": -87.7,
+   "min_c": 15,
+   "max_c": 24,
+   "min_f": 60,
+   "max_f": 74,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 16,
+     "max_c": 22,
+     "min_f": 60,
+     "max_f": 72,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 15,
+     "max_c": 23,
+     "min_f": 60,
+     "max_f": 74,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 16,
+     "max_c": 22,
+     "min_f": 62,
+     "max_f": 72,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 18,
+     "max_c": 22,
+     "min_f": 64,
+     "max_f": 72,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 17,
+     "max_c": 22,
+     "min_f": 62,
+     "max_f": 72,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 16,
+     "max_c": 24,
+     "min_f": 62,
+     "max_f": 74,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 16,
+     "max_c": 22,
+     "min_f": 60,
+     "max_f": 72,
+     "symbol": "lightrainshowers day"
+    }
+   ]
+  },
+  {
+   "name": "Myrtle Beach",
+   "region": "SC",
+   "country": "US",
+   "role": "south",
+   "lat": 33.689,
+   "lon": -78.887,
+   "min_c": 10,
+   "max_c": 22,
+   "min_f": 49,
+   "max_f": 72,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 10,
+     "max_c": 19,
+     "min_f": 49,
+     "max_f": 66,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 12,
+     "max_c": 21,
+     "min_f": 54,
+     "max_f": 69,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 14,
+     "max_c": 22,
+     "min_f": 56,
+     "max_f": 71,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 15,
+     "max_c": 17,
+     "min_f": 58,
+     "max_f": 62,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 17,
+     "max_c": 19,
+     "min_f": 63,
+     "max_f": 67,
+     "symbol": "heavyrain"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 17,
+     "max_c": 22,
+     "min_f": 63,
+     "max_f": 72,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 13,
+     "max_c": 20,
+     "min_f": 56,
+     "max_f": 67,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Hilton Head Island",
+   "region": "SC",
+   "country": "US",
+   "role": "south",
+   "lat": 32.216,
+   "lon": -80.752,
+   "min_c": 13,
+   "max_c": 23,
+   "min_f": 55,
+   "max_f": 74,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 13,
+     "max_c": 20,
+     "min_f": 55,
+     "max_f": 67,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 15,
+     "max_c": 22,
+     "min_f": 59,
+     "max_f": 71,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 16,
+     "max_c": 22,
+     "min_f": 60,
+     "max_f": 72,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 16,
+     "max_c": 19,
+     "min_f": 60,
+     "max_f": 66,
+     "symbol": "rain"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 16,
+     "max_c": 21,
+     "min_f": 61,
+     "max_f": 70,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 15,
+     "max_c": 23,
+     "min_f": 58,
+     "max_f": 74,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 15,
+     "max_c": 22,
+     "min_f": 58,
+     "max_f": 71,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Kitty Hawk",
+   "region": "NC",
+   "country": "US",
+   "role": "south",
+   "lat": 36.065,
+   "lon": -75.706,
+   "min_c": 12,
+   "max_c": 19,
+   "min_f": 54,
+   "max_f": 66,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 12,
+     "max_c": 14,
+     "min_f": 54,
+     "max_f": 57,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 13,
+     "max_c": 15,
+     "min_f": 55,
+     "max_f": 59,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 13,
+     "max_c": 16,
+     "min_f": 56,
+     "max_f": 61,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 14,
+     "max_c": 17,
+     "min_f": 56,
+     "max_f": 63,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 18,
+     "max_c": 19,
+     "min_f": 64,
+     "max_f": 66,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 16,
+     "max_c": 18,
+     "min_f": 61,
+     "max_f": 64,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 13,
+     "max_c": 16,
+     "min_f": 55,
+     "max_f": 60,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "Honolulu",
+   "region": "HI",
+   "country": "US",
+   "role": "south",
+   "lat": 21.307,
+   "lon": -157.858,
+   "min_c": 21,
+   "max_c": 27,
+   "min_f": 71,
+   "max_f": 80,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 22,
+     "max_c": 27,
+     "min_f": 72,
+     "max_f": 80,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 22,
+     "max_c": 27,
+     "min_f": 72,
+     "max_f": 80,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 23,
+     "max_c": 25,
+     "min_f": 73,
+     "max_f": 77,
+     "symbol": "lightrainshowers day"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 23,
+     "max_c": 26,
+     "min_f": 74,
+     "max_f": 79,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 23,
+     "max_c": 26,
+     "min_f": 73,
+     "max_f": 78,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 22,
+     "max_c": 26,
+     "min_f": 71,
+     "max_f": 78,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 21,
+     "max_c": 26,
+     "min_f": 71,
+     "max_f": 80,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Vail",
+   "region": "CO",
+   "country": "US",
+   "role": "mountain",
+   "lat": 39.64,
+   "lon": -106.374,
+   "min_c": -15,
+   "max_c": 9,
+   "min_f": 6,
+   "max_f": 49,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -9,
+     "max_c": 3,
+     "min_f": 16,
+     "max_f": 37,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -9,
+     "max_c": 9,
+     "min_f": 15,
+     "max_f": 49,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -6,
+     "max_c": 3,
+     "min_f": 22,
+     "max_f": 38,
+     "symbol": "lightsnowshowers night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -12,
+     "max_c": -3,
+     "min_f": 10,
+     "max_f": 26,
+     "symbol": "lightsnow"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -15,
+     "max_c": 1,
+     "min_f": 6,
+     "max_f": 35,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -12,
+     "max_c": 2,
+     "min_f": 10,
+     "max_f": 36,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -12,
+     "max_c": -2,
+     "min_f": 11,
+     "max_f": 28,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Aspen",
+   "region": "CO",
+   "country": "US",
+   "role": "mountain",
+   "lat": 39.191,
+   "lon": -106.818,
+   "min_c": -15,
+   "max_c": 9,
+   "min_f": 5,
+   "max_f": 49,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -6,
+     "max_c": 5,
+     "min_f": 21,
+     "max_f": 41,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -5,
+     "max_c": 9,
+     "min_f": 22,
+     "max_f": 49,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -3,
+     "max_c": 5,
+     "min_f": 27,
+     "max_f": 41,
+     "symbol": "lightsnowshowers night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -10,
+     "max_c": -2,
+     "min_f": 13,
+     "max_f": 28,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -15,
+     "max_c": 3,
+     "min_f": 5,
+     "max_f": 38,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -7,
+     "max_c": 4,
+     "min_f": 19,
+     "max_f": 40,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -7,
+     "max_c": 0,
+     "min_f": 20,
+     "max_f": 32,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Park City",
+   "region": "UT",
+   "country": "US",
+   "role": "mountain",
+   "lat": 40.646,
+   "lon": -111.498,
+   "min_c": -10,
+   "max_c": 3,
+   "min_f": 14,
+   "max_f": 37,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -9,
+     "max_c": 3,
+     "min_f": 15,
+     "max_f": 37,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -3,
+     "max_c": 2,
+     "min_f": 26,
+     "max_f": 35,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -6,
+     "max_c": 0,
+     "min_f": 22,
+     "max_f": 33,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -10,
+     "max_c": -3,
+     "min_f": 14,
+     "max_f": 27,
+     "symbol": "lightsnowshowers day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -9,
+     "max_c": 0,
+     "min_f": 16,
+     "max_f": 33,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -6,
+     "max_c": 0,
+     "min_f": 21,
+     "max_f": 32,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -7,
+     "max_c": 0,
+     "min_f": 19,
+     "max_f": 32,
+     "symbol": "clearsky day"
+    }
+   ]
+  },
+  {
+   "name": "South Lake Tahoe",
+   "region": "CA",
+   "country": "US",
+   "role": "mountain",
+   "lat": 38.939,
+   "lon": -119.977,
+   "min_c": -7,
+   "max_c": 3,
+   "min_f": 19,
+   "max_f": 38,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -1,
+     "max_c": 1,
+     "min_f": 31,
+     "max_f": 33,
+     "symbol": "heavysnow"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -2,
+     "max_c": 2,
+     "min_f": 28,
+     "max_f": 35,
+     "symbol": "heavysnow"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -7,
+     "max_c": 1,
+     "min_f": 19,
+     "max_f": 34,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -7,
+     "max_c": 3,
+     "min_f": 20,
+     "max_f": 38,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -2,
+     "max_c": 0,
+     "min_f": 28,
+     "max_f": 33,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -1,
+     "max_c": 1,
+     "min_f": 30,
+     "max_f": 34,
+     "symbol": "snow"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -2,
+     "max_c": 2,
+     "min_f": 29,
+     "max_f": 36,
+     "symbol": "snow"
+    }
+   ]
+  },
+  {
+   "name": "Stowe",
+   "region": "VT",
+   "country": "US",
+   "role": "mountain",
+   "lat": 44.465,
+   "lon": -72.685,
+   "min_c": 0,
+   "max_c": 13,
+   "min_f": 31,
+   "max_f": 56,
+   "freeze_days": 1,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 3,
+     "max_c": 12,
+     "min_f": 38,
+     "max_f": 54,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 2,
+     "max_c": 13,
+     "min_f": 36,
+     "max_f": 56,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 3,
+     "max_c": 10,
+     "min_f": 38,
+     "max_f": 50,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 3,
+     "max_c": 10,
+     "min_f": 38,
+     "max_f": 50,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 2,
+     "max_c": 12,
+     "min_f": 36,
+     "max_f": 54,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 13,
+     "min_f": 40,
+     "max_f": 55,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 0,
+     "max_c": 4,
+     "min_f": 31,
+     "max_f": 38,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Lake Placid",
+   "region": "NY",
+   "country": "US",
+   "role": "mountain",
+   "lat": 44.28,
+   "lon": -73.98,
+   "min_c": -1,
+   "max_c": 15,
+   "min_f": 31,
+   "max_f": 60,
+   "freeze_days": 2,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 3,
+     "max_c": 11,
+     "min_f": 37,
+     "max_f": 51,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 2,
+     "max_c": 13,
+     "min_f": 35,
+     "max_f": 55,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 9,
+     "min_f": 39,
+     "max_f": 49,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 0,
+     "max_c": 12,
+     "min_f": 32,
+     "max_f": 54,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 2,
+     "max_c": 15,
+     "min_f": 36,
+     "max_f": 60,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 5,
+     "max_c": 10,
+     "min_f": 41,
+     "max_f": 49,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -1,
+     "max_c": 2,
+     "min_f": 31,
+     "max_f": 36,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Hyannis (Cape Cod)",
+   "region": "MA",
+   "country": "US",
+   "role": "north",
+   "lat": 41.653,
+   "lon": -70.288,
+   "min_c": 4,
+   "max_c": 17,
+   "min_f": 40,
+   "max_f": 62,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 8,
+     "max_c": 16,
+     "min_f": 47,
+     "max_f": 60,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 4,
+     "max_c": 14,
+     "min_f": 40,
+     "max_f": 58,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 7,
+     "max_c": 17,
+     "min_f": 44,
+     "max_f": 62,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 8,
+     "max_c": 13,
+     "min_f": 46,
+     "max_f": 56,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 7,
+     "max_c": 15,
+     "min_f": 45,
+     "max_f": 58,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 11,
+     "max_c": 14,
+     "min_f": 51,
+     "max_f": 58,
+     "symbol": "rain"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 8,
+     "max_c": 12,
+     "min_f": 46,
+     "max_f": 53,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Bar Harbor",
+   "region": "ME",
+   "country": "US",
+   "role": "north",
+   "lat": 44.388,
+   "lon": -68.204,
+   "min_c": 1,
+   "max_c": 14,
+   "min_f": 35,
+   "max_f": 58,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 7,
+     "max_c": 14,
+     "min_f": 45,
+     "max_f": 58,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 14,
+     "min_f": 42,
+     "max_f": 58,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 5,
+     "max_c": 14,
+     "min_f": 42,
+     "max_f": 58,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 3,
+     "max_c": 10,
+     "min_f": 37,
+     "max_f": 50,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 7,
+     "max_c": 11,
+     "min_f": 45,
+     "max_f": 52,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 9,
+     "max_c": 14,
+     "min_f": 48,
+     "max_f": 57,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 1,
+     "max_c": 7,
+     "min_f": 35,
+     "max_f": 45,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Boston",
+   "region": "MA",
+   "country": "US",
+   "role": "north",
+   "lat": 42.36,
+   "lon": -71.059,
+   "min_c": 4,
+   "max_c": 16,
+   "min_f": 40,
+   "max_f": 61,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 7,
+     "max_c": 16,
+     "min_f": 45,
+     "max_f": 60,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 4,
+     "max_c": 15,
+     "min_f": 40,
+     "max_f": 59,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 6,
+     "max_c": 16,
+     "min_f": 43,
+     "max_f": 61,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 4,
+     "max_c": 11,
+     "min_f": 40,
+     "max_f": 52,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 12,
+     "min_f": 42,
+     "max_f": 54,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 9,
+     "max_c": 14,
+     "min_f": 48,
+     "max_f": 58,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 7,
+     "max_c": 11,
+     "min_f": 45,
+     "max_f": 51,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Buffalo",
+   "region": "NY",
+   "country": "US",
+   "role": "north",
+   "lat": 42.886,
+   "lon": -78.878,
+   "min_c": 3,
+   "max_c": 16,
+   "min_f": 38,
+   "max_f": 60,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 8,
+     "max_c": 11,
+     "min_f": 47,
+     "max_f": 51,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 8,
+     "max_c": 13,
+     "min_f": 46,
+     "max_f": 55,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 8,
+     "max_c": 12,
+     "min_f": 46,
+     "max_f": 53,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 56,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 9,
+     "max_c": 16,
+     "min_f": 48,
+     "max_f": 60,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 6,
+     "max_c": 12,
+     "min_f": 43,
+     "max_f": 54,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 3,
+     "max_c": 5,
+     "min_f": 38,
+     "max_f": 41,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Chicago",
+   "region": "IL",
+   "country": "US",
+   "role": "north",
+   "lat": 41.878,
+   "lon": -87.63,
+   "min_c": 4,
+   "max_c": 17,
+   "min_f": 39,
+   "max_f": 63,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 56,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 8,
+     "max_c": 15,
+     "min_f": 47,
+     "max_f": 58,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 5,
+     "max_c": 16,
+     "min_f": 42,
+     "max_f": 61,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 9,
+     "max_c": 16,
+     "min_f": 49,
+     "max_f": 60,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 10,
+     "max_c": 17,
+     "min_f": 49,
+     "max_f": 63,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 6,
+     "min_f": 40,
+     "max_f": 44,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 4,
+     "max_c": 5,
+     "min_f": 39,
+     "max_f": 41,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Detroit",
+   "region": "MI",
+   "country": "US",
+   "role": "north",
+   "lat": 42.331,
+   "lon": -83.046,
+   "min_c": 2,
+   "max_c": 14,
+   "min_f": 36,
+   "max_f": 58,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 4,
+     "max_c": 12,
+     "min_f": 39,
+     "max_f": 53,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 6,
+     "max_c": 14,
+     "min_f": 42,
+     "max_f": 58,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 6,
+     "max_c": 14,
+     "min_f": 43,
+     "max_f": 57,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 6,
+     "max_c": 13,
+     "min_f": 42,
+     "max_f": 55,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 7,
+     "max_c": 13,
+     "min_f": 44,
+     "max_f": 56,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 5,
+     "max_c": 12,
+     "min_f": 41,
+     "max_f": 54,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 2,
+     "max_c": 5,
+     "min_f": 36,
+     "max_f": 41,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Traverse City",
+   "region": "MI",
+   "country": "US",
+   "role": "north",
+   "lat": 44.763,
+   "lon": -85.621,
+   "min_c": 2,
+   "max_c": 15,
+   "min_f": 35,
+   "max_f": 59,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 8,
+     "max_c": 13,
+     "min_f": 46,
+     "max_f": 55,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 9,
+     "max_c": 14,
+     "min_f": 49,
+     "max_f": 56,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 6,
+     "max_c": 13,
+     "min_f": 43,
+     "max_f": 55,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 10,
+     "max_c": 15,
+     "min_f": 50,
+     "max_f": 59,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 7,
+     "max_c": 13,
+     "min_f": 45,
+     "max_f": 56,
+     "symbol": "rain"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 2,
+     "max_c": 5,
+     "min_f": 36,
+     "max_f": 40,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 2,
+     "max_c": 3,
+     "min_f": 35,
+     "max_f": 38,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Sturgeon Bay (Door County)",
+   "region": "WI",
+   "country": "US",
+   "role": "north",
+   "lat": 44.834,
+   "lon": -87.377,
+   "min_c": 0,
+   "max_c": 15,
+   "min_f": 33,
+   "max_f": 58,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 6,
+     "max_c": 10,
+     "min_f": 43,
+     "max_f": 51,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 8,
+     "max_c": 15,
+     "min_f": 46,
+     "max_f": 58,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 11,
+     "min_f": 40,
+     "max_f": 52,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 10,
+     "max_c": 14,
+     "min_f": 51,
+     "max_f": 57,
+     "symbol": "lightrainshowers day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 11,
+     "min_f": 40,
+     "max_f": 51,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 2,
+     "max_c": 3,
+     "min_f": 35,
+     "max_f": 37,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 0,
+     "max_c": 2,
+     "min_f": 33,
+     "max_f": 36,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Minneapolis",
+   "region": "MN",
+   "country": "US",
+   "role": "north",
+   "lat": 44.978,
+   "lon": -93.265,
+   "min_c": -4,
+   "max_c": 16,
+   "min_f": 26,
+   "max_f": 61,
+   "freeze_days": 1,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 8,
+     "max_c": 13,
+     "min_f": 46,
+     "max_f": 56,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 12,
+     "min_f": 41,
+     "max_f": 53,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 16,
+     "min_f": 39,
+     "max_f": 61,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 7,
+     "max_c": 15,
+     "min_f": 45,
+     "max_f": 58,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 3,
+     "max_c": 5,
+     "min_f": 38,
+     "max_f": 41,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 1,
+     "max_c": 2,
+     "min_f": 34,
+     "max_f": 36,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -4,
+     "max_c": 1,
+     "min_f": 26,
+     "max_f": 34,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Toronto",
+   "region": "ON",
+   "country": "CA",
+   "role": "north",
+   "lat": 43.653,
+   "lon": -79.383,
+   "min_c": -2,
+   "max_c": 13,
+   "min_f": 29,
+   "max_f": 56,
+   "freeze_days": 1,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 6,
+     "max_c": 12,
+     "min_f": 42,
+     "max_f": 53,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 56,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 6,
+     "max_c": 13,
+     "min_f": 43,
+     "max_f": 55,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 5,
+     "max_c": 8,
+     "min_f": 42,
+     "max_f": 47,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 56,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 10,
+     "min_f": 39,
+     "max_f": 51,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -2,
+     "max_c": 4,
+     "min_f": 29,
+     "max_f": 39,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Ottawa",
+   "region": "ON",
+   "country": "CA",
+   "role": "north",
+   "lat": 45.421,
+   "lon": -75.697,
+   "min_c": 0,
+   "max_c": 14,
+   "min_f": 33,
+   "max_f": 56,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 41,
+     "max_f": 55,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 2,
+     "max_c": 12,
+     "min_f": 36,
+     "max_f": 54,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 5,
+     "max_c": 11,
+     "min_f": 41,
+     "max_f": 51,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 4,
+     "max_c": 9,
+     "min_f": 38,
+     "max_f": 48,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 14,
+     "min_f": 40,
+     "max_f": 56,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 9,
+     "min_f": 39,
+     "max_f": 48,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 0,
+     "max_c": 3,
+     "min_f": 33,
+     "max_f": 37,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Muskoka (Bracebridge)",
+   "region": "ON",
+   "country": "CA",
+   "role": "north",
+   "lat": 45.041,
+   "lon": -79.31,
+   "min_c": -3,
+   "max_c": 13,
+   "min_f": 27,
+   "max_f": 56,
+   "freeze_days": 1,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 3,
+     "max_c": 11,
+     "min_f": 38,
+     "max_f": 52,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 3,
+     "max_c": 13,
+     "min_f": 37,
+     "max_f": 55,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 3,
+     "max_c": 11,
+     "min_f": 38,
+     "max_f": 52,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 3,
+     "max_c": 9,
+     "min_f": 37,
+     "max_f": 49,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 13,
+     "min_f": 40,
+     "max_f": 56,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 0,
+     "max_c": 8,
+     "min_f": 32,
+     "max_f": 46,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -3,
+     "max_c": 1,
+     "min_f": 27,
+     "max_f": 34,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Montréal",
+   "region": "QC",
+   "country": "CA",
+   "role": "north",
+   "lat": 45.502,
+   "lon": -73.567,
+   "min_c": 1,
+   "max_c": 12,
+   "min_f": 35,
+   "max_f": 54,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 7,
+     "max_c": 11,
+     "min_f": 44,
+     "max_f": 52,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 12,
+     "min_f": 41,
+     "max_f": 53,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 5,
+     "max_c": 10,
+     "min_f": 42,
+     "max_f": 51,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 4,
+     "max_c": 11,
+     "min_f": 39,
+     "max_f": 51,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 4,
+     "max_c": 12,
+     "min_f": 39,
+     "max_f": 54,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 4,
+     "max_c": 8,
+     "min_f": 40,
+     "max_f": 47,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 1,
+     "max_c": 2,
+     "min_f": 35,
+     "max_f": 36,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Québec City",
+   "region": "QC",
+   "country": "CA",
+   "role": "north",
+   "lat": 46.813,
+   "lon": -71.208,
+   "min_c": -2,
+   "max_c": 10,
+   "min_f": 28,
+   "max_f": 49,
+   "freeze_days": 2,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 4,
+     "max_c": 10,
+     "min_f": 40,
+     "max_f": 49,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 1,
+     "max_c": 7,
+     "min_f": 35,
+     "max_f": 45,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 3,
+     "max_c": 9,
+     "min_f": 37,
+     "max_f": 47,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 0,
+     "max_c": 7,
+     "min_f": 31,
+     "max_f": 44,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 1,
+     "max_c": 9,
+     "min_f": 35,
+     "max_f": 49,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 2,
+     "max_c": 4,
+     "min_f": 35,
+     "max_f": 40,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -2,
+     "max_c": 0,
+     "min_f": 28,
+     "max_f": 31,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Halifax",
+   "region": "NS",
+   "country": "CA",
+   "role": "north",
+   "lat": 44.649,
+   "lon": -63.575,
+   "min_c": 2,
+   "max_c": 14,
+   "min_f": 35,
+   "max_f": 57,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 6,
+     "max_c": 12,
+     "min_f": 43,
+     "max_f": 54,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 4,
+     "max_c": 12,
+     "min_f": 39,
+     "max_f": 53,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 4,
+     "max_c": 13,
+     "min_f": 39,
+     "max_f": 55,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 3,
+     "max_c": 11,
+     "min_f": 38,
+     "max_f": 51,
+     "symbol": "fair day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 5,
+     "max_c": 10,
+     "min_f": 41,
+     "max_f": 49,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 8,
+     "max_c": 14,
+     "min_f": 46,
+     "max_f": 57,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 2,
+     "max_c": 6,
+     "min_f": 35,
+     "max_f": 43,
+     "symbol": "rain"
+    }
+   ]
+  },
+  {
+   "name": "Winnipeg",
+   "region": "MB",
+   "country": "CA",
+   "role": "north",
+   "lat": 49.895,
+   "lon": -97.138,
+   "min_c": -8,
+   "max_c": 9,
+   "min_f": 18,
+   "max_f": 48,
+   "freeze_days": 4,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 6,
+     "max_c": 9,
+     "min_f": 43,
+     "max_f": 48,
+     "symbol": "lightrain"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 0,
+     "max_c": 6,
+     "min_f": 32,
+     "max_f": 44,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 1,
+     "max_c": 6,
+     "min_f": 33,
+     "max_f": 43,
+     "symbol": "rain"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 0,
+     "max_c": 5,
+     "min_f": 32,
+     "max_f": 40,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -5,
+     "max_c": -2,
+     "min_f": 23,
+     "max_f": 29,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -6,
+     "max_c": -4,
+     "min_f": 22,
+     "max_f": 24,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -8,
+     "max_c": -3,
+     "min_f": 18,
+     "max_f": 26,
+     "symbol": "fair day"
+    }
+   ]
+  },
+  {
+   "name": "Calgary",
+   "region": "AB",
+   "country": "CA",
+   "role": "north",
+   "lat": 51.045,
+   "lon": -114.071,
+   "min_c": -15,
+   "max_c": 0,
+   "min_f": 6,
+   "max_f": 32,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -5,
+     "max_c": 0,
+     "min_f": 23,
+     "max_f": 32,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -7,
+     "max_c": -2,
+     "min_f": 20,
+     "max_f": 28,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -8,
+     "max_c": -3,
+     "min_f": 17,
+     "max_f": 27,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -8,
+     "max_c": -5,
+     "min_f": 17,
+     "max_f": 22,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -9,
+     "max_c": -5,
+     "min_f": 16,
+     "max_f": 23,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -11,
+     "max_c": -9,
+     "min_f": 13,
+     "max_f": 15,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -15,
+     "max_c": -12,
+     "min_f": 6,
+     "max_f": 11,
+     "symbol": "partlycloudy day"
+    }
+   ]
+  },
+  {
+   "name": "Edmonton",
+   "region": "AB",
+   "country": "CA",
+   "role": "north",
+   "lat": 53.546,
+   "lon": -113.494,
+   "min_c": -7,
+   "max_c": 3,
+   "min_f": 19,
+   "max_f": 37,
+   "freeze_days": 7,
+   "hard_freeze": true,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": -2,
+     "max_c": 3,
+     "min_f": 29,
+     "max_f": 37,
+     "symbol": "partlycloudy night"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": -4,
+     "max_c": 2,
+     "min_f": 26,
+     "max_f": 35,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": -5,
+     "max_c": -2,
+     "min_f": 23,
+     "max_f": 28,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": -4,
+     "max_c": -3,
+     "min_f": 25,
+     "max_f": 27,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": -6,
+     "max_c": -3,
+     "min_f": 21,
+     "max_f": 27,
+     "symbol": "partlycloudy day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": -7,
+     "max_c": -5,
+     "min_f": 19,
+     "max_f": 24,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": -7,
+     "max_c": -5,
+     "min_f": 20,
+     "max_f": 23,
+     "symbol": "cloudy"
+    }
+   ]
+  },
+  {
+   "name": "Vancouver",
+   "region": "BC",
+   "country": "CA",
+   "role": "north",
+   "lat": 49.283,
+   "lon": -123.121,
+   "min_c": 2,
+   "max_c": 9,
+   "min_f": 36,
+   "max_f": 49,
+   "freeze_days": 0,
+   "hard_freeze": false,
+   "heat_days": 0,
+   "days": [
+    {
+     "date": "2026-11-18",
+     "min_c": 3,
+     "max_c": 9,
+     "min_f": 37,
+     "max_f": 49,
+     "symbol": "cloudy"
+    },
+    {
+     "date": "2026-11-19",
+     "min_c": 5,
+     "max_c": 9,
+     "min_f": 41,
+     "max_f": 49,
+     "symbol": "clearsky night"
+    },
+    {
+     "date": "2026-11-20",
+     "min_c": 3,
+     "max_c": 8,
+     "min_f": 38,
+     "max_f": 46,
+     "symbol": "fair night"
+    },
+    {
+     "date": "2026-11-21",
+     "min_c": 4,
+     "max_c": 7,
+     "min_f": 38,
+     "max_f": 44,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-22",
+     "min_c": 4,
+     "max_c": 6,
+     "min_f": 38,
+     "max_f": 44,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-23",
+     "min_c": 2,
+     "max_c": 7,
+     "min_f": 36,
+     "max_f": 45,
+     "symbol": "clearsky day"
+    },
+    {
+     "date": "2026-11-24",
+     "min_c": 7,
+     "max_c": 8,
+     "min_f": 44,
+     "max_f": 47,
+     "symbol": "lightrain"
+    }
+   ]
+  }
+ ]
 }
