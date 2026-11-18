@@ -1,0 +1,21 @@
+{
+  "name": "Home.Watch",
+  "short_name": "Home.Watch",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F6FA",
+  "theme_color": "#1B2440",
+  "description": "Tools, guides and live alerts for homes that sit empty.",
+  "icons": [
+    {
+      "src": "assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
