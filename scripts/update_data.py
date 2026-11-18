@@ -153,8 +153,8 @@ NEWS_QUERIES = [
 
 
 RELEVANT = re.compile(r"home|house|homeowner|propert|pipe|freez|frozen|hurricane|storm|leak|water damage|insur|vacant|snowbird|"
-                      r"burglar|break-in|break in|squatter|flood|mold|winteri|security system|smoke alarm|carbon monoxide", re.I)
-NOISE = re.compile(r"NYSE:|NASDAQ:|\bstock\b|shares|earnings|dividend|movie|film|netflix|streaming|season \d|episode|trailer|celebrity|\bNFL\b|\bNBA\b", re.I)
+                      r"burglar|break-ins?\b|squatter|flood|mold|winteri|security system|smoke alarm|carbon monoxide", re.I)
+NOISE = re.compile(r"NYSE:|NASDAQ:|\bstock\b|shares|earnings|dividend|movie|film|netflix|streaming|season \d|episode|trailer|celebrity|\bNFL\b|\bNBA\b|flyover|aerobatic|\bjets?\b|air show", re.I)
 
 
 def news():
