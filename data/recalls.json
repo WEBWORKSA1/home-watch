@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-18T15:12Z",
+ "updated": "2026-11-19T18:22Z",
  "source": "U.S. Consumer Product Safety Commission",
  "items": [
+  {
+   "title": "Cipton Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+   "url": "https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+   "date": "2026-11-19",
+   "hazard": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation",
+   "image": "https://www.cpsc.gov/s3fs-public/Cipton1.jpg?VersionId=dfWdhUzGnJmD6AN78a2Eodzd7FsoIuZS"
+  },
+  {
+   "title": "Fidlock GmbH Recalls Hermetic Dry Bags Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
+   "url": "https://cpsc.gov/Recalls/2027/Fidlock-GmbH-Recalls-Hermetic-Dry-Bags-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
+   "date": "2026-11-19",
+   "hazard": "The recalled bags’ adhesive closure strips can detach, causing the magnets to fall out, posing a risk of serious injury or death from a magn",
+   "image": "https://www.cpsc.gov/s3fs-public/Fidlock1.png?VersionId=DHwBdcPggfGWFl1sUrgsC22TT83bDY_W"
+  },
+  {
+   "title": "Hultafors Group North America Recalls Lighted Portfolios, Angle Locators, Calipers and Calculators Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries",
+   "url": "https://cpsc.gov/Recalls/2027/Hultafors-Group-North-America-Recalls-Lighted-Portfolios-Angle-Locators-Calipers-and-Calculators-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+   "date": "2026-11-19",
+   "hazard": "The various trade tools violate the mandatory safety standard for consumer products with button cell and coin batteries because the button b",
+   "image": "https://www.cpsc.gov/s3fs-public/Hultafors1.png?VersionId=4FF.4w62Md2j9ZmbCw_ppj_5bvo84WBB"
+  },
+  {
+   "title": "Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards",
+   "url": "https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+   "date": "2026-11-19",
+   "hazard": "The recalled lithium-ion battery packs can overheat, posing a risk of serious injury from fire and burn hazards.",
+   "image": "https://www.cpsc.gov/s3fs-public/Ororo1.gif?VersionId=8BOWWSJRrG7oR7n5exbg3vK8Lncyvnxc"
+  },
+  {
+   "title": "Vanderhall Recalls Brawley GTS Electric Recreational Off Highway Vehicles (ROVs) Due to Risk of Serious Injury or Death from Crash Hazard",
+   "url": "https://cpsc.gov/Recalls/2027/Vanderhall-Recalls-Brawley-GTS-Electric-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+   "date": "2026-11-19",
+   "hazard": "The braking system can unexpectedly engage when the vehicle is airborne causing the operator to experience a sudden brake lockup upon landin",
+   "image": "https://www.cpsc.gov/s3fs-public/Vanderhall1.png?VersionId=_vrV9fNeVietQueXbiyi6Lme8WIUibK1"
+  },
+  {
+   "title": "Xentrawave Recalls Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; One Death Reported",
+   "url": "https://cpsc.gov/Recalls/2027/Xentrawave-Recalls-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-One-Death-Reported",
+   "date": "2026-11-19",
+   "hazard": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or",
+   "image": "https://www.cpsc.gov/s3fs-public/Xentrawave1.png?VersionId=rhUa6lBnJKXFe9FOaypClwbCWSeZq8Ne"
+  },
   {
    "title": "Allstar Recalls Sharper Image Tabletop and Infinity Fire Pits Due to Risk of Serious Injury from Burn and Fire Hazards",
    "url": "https://www.cpsc.gov/Recalls/2027/Allstar-Recalls-Sharper-Image-Tabletop-and-Infinity-Fire-Pits-Due-to-Risk-of-Serious-Injury-from-Burn-and-Fire-Hazards",
@@ -14,7 +56,7 @@
    "url": "https://cpsc.gov/Recalls/2027/Boshengya-Recalls-Rugs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Carpets-and-Rugs",
    "date": "2026-11-12",
    "hazard": "The recalled rugs violate the mandatory standard for the flammability of carpets and rugs, posing a risk of serious injury or death from fir",
-   "image": "https://cpsc.gov/s3fs-public/Boshengya1.png?VersionId=SMMQh1_t0sJeavc9lm.YfEWE5trdmBJ9"
+   "image": "https://www.cpsc.gov/s3fs-public/Boshengya1.png?VersionId=SMMQh1_t0sJeavc9lm.YfEWE5trdmBJ9"
   },
   {
    "title": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards",
@@ -239,48 +281,6 @@
    "date": "2026-10-15",
    "hazard": "The bedside sleepers with play yard extensions violate the mandatory safety standard for play yards because the mattress can become displace",
    "image": "https://www.cpsc.gov/s3fs-public/Papablic1.png"
-  },
-  {
-   "title": "usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
-   "url": "https://cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
-   "date": "2026-10-15",
-   "hazard": "The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users c",
-   "image": "https://www.cpsc.gov/s3fs-public/usOpal1.png"
-  },
-  {
-   "title": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
-   "url": "https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
-   "date": "2026-10-08",
-   "hazard": "Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.",
-   "image": "https://www.cpsc.gov/s3fs-public/DR1.png"
-  },
-  {
-   "title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
-   "url": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
-   "date": "2026-10-08",
-   "hazard": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products wit",
-   "image": "https://www.cpsc.gov/s3fs-public/giant2.jpg"
-  },
-  {
-   "title": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard",
-   "url": "https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
-   "date": "2026-10-08",
-   "hazard": "The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious inj",
-   "image": "https://www.cpsc.gov/s3fs-public/Pacearth1.png"
-  },
-  {
-   "title": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
-   "url": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
-   "date": "2026-10-08",
-   "hazard": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of ",
-   "image": "https://www.cpsc.gov/s3fs-public/Romorgniz1.png"
-  },
-  {
-   "title": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards",
-   "url": "https://www.cpsc.gov/Recalls/2027/Snow-Peak-Recalls-Propane-Fireplace-Inserts-and-Lava-Rocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-and-Fire-Hazards",
-   "date": "2026-10-08",
-   "hazard": "The fireplace's lava rocks can ignite and explode when heated in the propane insert, posing a risk of serious injury or death from burn and ",
-   "image": "https://www.cpsc.gov/s3fs-public/SnowPeak1.png"
   }
  ]
 }
